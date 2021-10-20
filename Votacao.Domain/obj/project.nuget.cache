@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7i3cHLLCwaANaWTz94upHUEZwa0ciCL4/4Lc3p5g9wAlygR0gJ/BPVI6Q2RpvbYwBoiSAwLSN/aXLLnEyfGfw==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\TreinamentoLucas\\Votacao\\Votacao.Domain\\Votacao.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caiom\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\bin\Debug\net5.0\Votacao.Domain.deps.json
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\bin\Debug\net5.0\Votacao.Domain.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\bin\Debug\net5.0\ref\Votacao.Domain.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\bin\Debug\net5.0\Votacao.Domain.pdb
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\bin\Debug\net5.0\Votacao.Infra.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\bin\Debug\net5.0\Votacao.Infra.pdb
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\obj\Debug\net5.0\Votacao.Domain.csproj.AssemblyReference.cache
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\obj\Debug\net5.0\Votacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\obj\Debug\net5.0\Votacao.Domain.AssemblyInfoInputs.cache
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\obj\Debug\net5.0\Votacao.Domain.AssemblyInfo.cs
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\obj\Debug\net5.0\Votacao.Domain.csproj.CoreCompileInputs.cache
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\obj\Debug\net5.0\Votacao.Domain.csproj.CopyComplete
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\obj\Debug\net5.0\Votacao.Domain.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\obj\Debug\net5.0\ref\Votacao.Domain.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Domain\obj\Debug\net5.0\Votacao.Domain.pdb

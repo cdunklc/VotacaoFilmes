@@ -1,0 +1,12 @@
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\bin\Debug\net5.0\Votacao.Infra.deps.json
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\bin\Debug\net5.0\Votacao.Infra.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\bin\Debug\net5.0\ref\Votacao.Infra.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\bin\Debug\net5.0\Votacao.Infra.pdb
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\obj\Debug\net5.0\Votacao.Infra.csproj.AssemblyReference.cache
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\obj\Debug\net5.0\Votacao.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\obj\Debug\net5.0\Votacao.Infra.AssemblyInfoInputs.cache
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\obj\Debug\net5.0\Votacao.Infra.AssemblyInfo.cs
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\obj\Debug\net5.0\Votacao.Infra.csproj.CoreCompileInputs.cache
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\obj\Debug\net5.0\Votacao.Infra.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\obj\Debug\net5.0\ref\Votacao.Infra.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra\obj\Debug\net5.0\Votacao.Infra.pdb

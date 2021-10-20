@@ -1,0 +1,17 @@
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\bin\Debug\net5.0\Votacao.Infra.Data.deps.json
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\bin\Debug\net5.0\Votacao.Infra.Data.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\bin\Debug\net5.0\ref\Votacao.Infra.Data.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\bin\Debug\net5.0\Votacao.Infra.Data.pdb
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\bin\Debug\net5.0\Votacao.Domain.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\bin\Debug\net5.0\Votacao.Infra.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\bin\Debug\net5.0\Votacao.Domain.pdb
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\bin\Debug\net5.0\Votacao.Infra.pdb
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\obj\Debug\net5.0\Votacao.Infra.Data.csproj.AssemblyReference.cache
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\obj\Debug\net5.0\Votacao.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\obj\Debug\net5.0\Votacao.Infra.Data.AssemblyInfoInputs.cache
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\obj\Debug\net5.0\Votacao.Infra.Data.AssemblyInfo.cs
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\obj\Debug\net5.0\Votacao.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\obj\Debug\net5.0\Votacao.Infra.Data.csproj.CopyComplete
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\obj\Debug\net5.0\Votacao.Infra.Data.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\obj\Debug\net5.0\ref\Votacao.Infra.Data.dll
+D:\Dev\TreinamentoLucas\Votacao\Votacao.Infra.Data\obj\Debug\net5.0\Votacao.Infra.Data.pdb
