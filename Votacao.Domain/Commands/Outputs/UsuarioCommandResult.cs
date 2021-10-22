@@ -9,13 +9,13 @@ namespace Votacao.Domain.Commands.Outputs
 {
     public class UsuarioCommandResult : ICommandResult
     {
-        public bool Sucess { get; set; }
+        public bool Success { get; set; }
         public string Message { get; set; }
         public object Data { get; set; }
 
         public UsuarioCommandResult(bool sucess, string message, object data)
         {
-            Sucess = sucess;
+            Success = sucess;
             Message = message;
             Data = data;
         }

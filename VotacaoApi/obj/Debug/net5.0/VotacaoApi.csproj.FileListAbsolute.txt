@@ -41,3 +41,10 @@ D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\obj\Debug\net5.0\VotacaoApi.dll
 D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\obj\Debug\net5.0\ref\VotacaoApi.dll
 D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\obj\Debug\net5.0\VotacaoApi.pdb
 D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\obj\Debug\net5.0\VotacaoApi.genruntimeconfig.cache
+D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev\TreinamentoLucas\Votacao\VotacaoApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

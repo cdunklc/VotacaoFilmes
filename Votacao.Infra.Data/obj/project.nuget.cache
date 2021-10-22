@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "PnbezDDgtzHGKbSD1mhcJpTx+l7cf4YBQOaAX7SDPt0xhqPQ3z32jawpf9nUeOm7DsVAcpi6D+P51q4tS9mB1A==",
+  "dgSpecHash": "zzuvd+4svhwwfT4sWv2M2hyFBwb4uBKQghQBSJvfu+xZONK0Q8Qyb5RRTMDzf5qQfI243iwLvOtULhVXWmjpwA==",
   "success": true,
   "projectFilePath": "D:\\Dev\\TreinamentoLucas\\Votacao\\Votacao.Infra.Data\\Votacao.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caiom\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\caiom\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.13.1\\microsoft.identitymodel.jsonwebtokens.6.13.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.identitymodel.logging\\6.13.1\\microsoft.identitymodel.logging.6.13.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.13.1\\microsoft.identitymodel.tokens.6.13.1.nupkg.sha512",
     "C:\\Users\\caiom\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\caiom\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\caiom\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
@@ -13,7 +17,9 @@
     "C:\\Users\\caiom\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\caiom\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\caiom\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.13.1\\system.identitymodel.tokens.jwt.6.13.1.nupkg.sha512",
     "C:\\Users\\caiom\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\caiom\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
   "logs": []

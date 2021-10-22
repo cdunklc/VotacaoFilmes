@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "h7i3cHLLCwaANaWTz94upHUEZwa0ciCL4/4Lc3p5g9wAlygR0gJ/BPVI6Q2RpvbYwBoiSAwLSN/aXLLnEyfGfw==",
+  "dgSpecHash": "KrM6ORWIZfq93VllSZb4R+TQ4HACk9MwN0DxBBzrdidDg1znl9mj42uXGx/LuowN9jzen5VZZIwHA0rf/32CeQ==",
   "success": true,
   "projectFilePath": "D:\\Dev\\TreinamentoLucas\\Votacao\\Votacao.Domain\\Votacao.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\caiom\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+    "C:\\Users\\caiom\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.13.1\\microsoft.identitymodel.jsonwebtokens.6.13.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.identitymodel.logging\\6.13.1\\microsoft.identitymodel.logging.6.13.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.13.1\\microsoft.identitymodel.tokens.6.13.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.13.1\\system.identitymodel.tokens.jwt.6.13.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

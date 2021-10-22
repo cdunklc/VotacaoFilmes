@@ -7,15 +7,15 @@ using Votacao.Infra.Interfaces.Commands;
 
 namespace Votacao.Domain.Commands.Outputs
 {
-    public class VotoCommandResult : ICommandResult
+    public class AuthenticationCommandResult : ICommandResult
     {
         public bool Success { get; set; }
         public string Message { get; set; }
         public object Data { get; set; }
 
-        public VotoCommandResult(bool sucess, string message, object data)
+        public AuthenticationCommandResult(bool success, string message, object data)
         {
-            Success = sucess;
+            Success = success;
             Message = message;
             Data = data;
         }

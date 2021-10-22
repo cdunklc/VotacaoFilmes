@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,7 @@ namespace VotacaoApi.Controllers
 {
     [Consumes("application/json")]
     [Produces("application/json")]
+    [Authorize]
     [ApiController]
     public class UsuarioController : ControllerBase
     {
@@ -40,6 +42,7 @@ namespace VotacaoApi.Controllers
             return _repository.Listar();
         }
 
+        [AllowAnonymous]
         [HttpPost]
         [Route("v1/usuarios")]
         public ICommandResult InserirUsuario([FromBody] AdicionarUsuarioCommand command)

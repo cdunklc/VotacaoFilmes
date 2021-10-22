@@ -30,5 +30,7 @@ namespace Votacao.Infra.Data.Repositories.Queries
                                             Login as Login  
                                         From Usuario
                                         Where UsuarioId=@UsuarioId";
+
+        public static string Autenticar = @"SELECT UsuarioId FROM Usuario WHERE Login=@Login AND Senha=@Senha";
     }
 }

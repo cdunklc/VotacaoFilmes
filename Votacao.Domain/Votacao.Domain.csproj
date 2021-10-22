@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <PackageReference Include="Flunt" Version="1.0.5" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.13.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.13.1" />
   </ItemGroup>
 
   <ItemGroup>
